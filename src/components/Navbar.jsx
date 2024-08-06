@@ -11,7 +11,7 @@ export const Navbar = () => {
               height="40"
             />
           <button
-            className="navbar-toggler"
+            className="navbar-toggler "
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
